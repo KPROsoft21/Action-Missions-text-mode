@@ -1,4 +1,4 @@
-# Custom Choose-Your-Own-Drama Application
+# Custom Action Mission Game (TEXT VERSION)
 
 This project consists of a React frontend and a Flask backend that together create a dynamic AI-powered storytelling experience.
 
